@@ -1,10 +1,15 @@
 <resources>
 
-    <string name="app_name">LoopPhoto</string>
+    <string name="app_name">MMPhotoDisplay</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">循环显示图片</string>
+    <string name="title_activity_main">MM成长变化显示</string>
     <string name="begin">开始</string>
     <string name="photo_dir">/MM/</string>
+    <string name="stop">停止</string>
+    <string name="start">开始</string>
+    <string name="quit">退出</string>
+    <string name="displayInterval">图片显示时间间隔：</string>
+    <string name="interval">图片显示间隔（十分之一秒）</string>
 
 </resources>
