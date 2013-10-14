@@ -2,7 +2,7 @@
 
     <string name="app_name">MMPhotoDisplay</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MM成长变化显示</string>
+    <string name="title_activity_main">MM成长展示</string>
     <string name="photo_dir">/MM/</string>
     <string name="stop">停止</string>
     <string name="start">开始</string>
