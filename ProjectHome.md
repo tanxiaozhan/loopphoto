@@ -1,0 +1,1 @@
+利用scheduleWithFixedDelay函数在Andoid下定时显示图片
